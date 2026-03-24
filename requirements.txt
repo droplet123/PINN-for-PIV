@@ -1,0 +1,7 @@
+numpy
+scipy
+sympy
+scikit-image
+opencv-python
+pyvista
+ReadIM

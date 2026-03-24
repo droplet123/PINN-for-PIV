@@ -1,0 +1,13 @@
+experimental_data/
+CLAUDE.md
+基于PINN的声悬浮液滴外部流场三维重建.md
+.claude/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.env
